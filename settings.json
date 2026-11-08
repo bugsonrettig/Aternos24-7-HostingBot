@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "coldcasettCrossplay.aternos.me:35545",
+    "port": 35545,
     "version": "",
     "try-creative": false
   },
